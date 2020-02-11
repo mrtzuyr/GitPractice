@@ -13,5 +13,9 @@ public class Mars {
 		
 		
 		System.out.println("naber");
+		
+		
+		System.out.println("that's a test");
+		System.out.println("Hope I can do it");
 	}
 }
