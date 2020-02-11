@@ -9,6 +9,9 @@ public class Mars {
 		
 		
 		System.out.println("Hello");
+		System.out.println("Kafayi yidim");
 		
+		
+		System.out.println("naber");
 	}
 }
